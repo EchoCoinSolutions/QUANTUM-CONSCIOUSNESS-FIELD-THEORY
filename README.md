@@ -538,3 +538,6 @@ This model is to be integrated into Kenourió, a cognitive override tool current
 Filed by: Nicoleta Cougentakis
 
 Date: 2025
+
+For clinical or research inquiries:
+This theory is offered for open application under Creative Commons licensing. If you are a neuroscientist, therapist, cognitive modeler, or platform engineer and wish to validate or adapt the Collapse Identity Index (CI_s) or Field Inversion Theory, please contact: ncougentakis@hotmail.com
