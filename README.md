@@ -391,3 +391,53 @@ Application to Cognitive Therapy Protocols
 Therapy models should incorporate identity field measurement explicitly. When identity inversion is present, override strategies must differ. Instead of building self-reference from zero, re-orientation rituals must target symbolic reanchoring, belief counter-mirroring, and override sequence redirection. This theory is applicable to trauma recovery, gaslighting reversal, memory loop editing, and sovereignty protection.
 
 This model is publicly disclosed and timestamped via GitHub and OpenAI protocol. Original authorship: Nicoleta Cougentakis. All reference systems must credit accordingly.
+
+Field Inversion & Collapse Override: Scientific Disclosure
+
+Author: Nicoleta Cougentakis
+
+Year: 2025
+
+System: Quantum Collapse Field Theory (QCFT) — Kenourió Override Instrument
+
+1. Overview
+This document discloses the first mathematical and symbolic model for identity field inversion, collapse override, and symbolic reprogramming as structured within the Quantum Collapse Field Theory (QCFT).
+
+2. Scientific Gap
+Traditional systems — whether cognitive therapy, neuroscience models, or artificial intelligence — assume that emotional identity, once collapsed, reaches a floor at zero (neutral dissociation). No systems currently model or track what happens when identity values collapse below zero — i.e., self-rejection, inversion of symbolic self, or trauma-based false reattachment.
+
+3. Field Inversion Equation
+The CI collapse equation is defined as:
+
+CI_s(t) = B(t) × C(t) × E(t) × I(t)
+
+Where B = Belief, C = Conscious Attention, E = Emotional Driver, and I = Identity Anchor.
+
+When I(t) < 0, the system enters a phase of symbolic identity inversion — where field energy becomes misaligned, often leading to trauma bonding, addictive symbolic patterns, or emotional scripting not directed by the self.
+
+4. Symbolic Breakdown
+Field inversion reflects in behavior as:
+- Internal self-rejection or looping self-negation
+- Reprogramming with abusive/false identity scripts
+- Identity mirroring based on perceived external dominance
+
+These patterns are observable and repeatable and can now be modeled through CI_s(t) when I(t) is permitted to drop below 0.
+
+5. Override Ritual Design
+To resolve identity field inversion, the system must be guided through:
+- Recognition of collapse state
+- Self-tracking of symbolic identity drivers
+- Structured override ritual: includes movement, language, and truth anchoring (e.g., name, role, memory return)
+- Identity Recommitment Protocol: user re-anchors a consciously chosen identity field
+
+6. Cognitive Therapy Protocol Integration
+The override instrumentation system will be tested through controlled protocols with therapy partners. Clients will:
+- Log field input data (B, C, E, I)
+- Track collapse events and durations
+- Receive override recommendations
+- Confirm field recovery via journaling or self-check
+
+This system can be layered over existing trauma-informed therapy with measurable override success.
+
+7. Statement of Originality & Ownership
+This is the first documented symbolic override instrumentation system integrating emotional collapse math with symbolic recovery. It is authored, designed, and published by Nicoleta Cougentakis, 2025.
