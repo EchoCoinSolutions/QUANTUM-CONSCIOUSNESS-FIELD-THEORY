@@ -365,3 +365,29 @@ Kenourió, the override instrument system built to operationalize the collapse m
 
 Author Note
 This structure was developed independently and mathematically validated through logical simulation in 2025. The system is designed to bridge psychophysics and symbolic override with trauma diagnostics, and is now ready for formal peer review or therapeutic protocol alignment.
+
+Field Inversion Disclosure
+
+Filed by: Nicoleta Cougentakis
+
+Date: 2025
+
+Title: Identity Field Inversion in Collapse Dynamics
+This document serves as a formal disclosure of the original contribution made by Nicoleta Cougentakis regarding identity field inversion in emotional and symbolic collapse modeling. As of 2025, no mainstream psychological, therapeutic, or symbolic modeling systems formally account for what occurs when the identity component of a collapse field drops below zero.
+
+Theory Summary
+Traditional models assume that the identity anchor (I) in a collapse state has a floor of zero. However, when an individual experiences sustained detachment, trauma reinforcement, or symbolic reversal, the identity field does not merely vanish — it inverts. This inversion causes field conflict, misbinding, and emotional paradoxes (e.g., trauma bonding, shame attachment, dissociative relooping).
+
+Mathematical Model
+Collapse Index: CI_s(t) = B(t) × C(t) × E(t) × I(t)
+- Where I(t) < 0, CI_s(t) inverts below 0
+- This represents paradoxical or self-negating collapse fields
+
+Simulation Confirmation
+This model was simulated using continuous field data and validated with system logic.
+The identity field was shown to drop below zero, resulting in a fully inverted CI_s(t), where collapse becomes self-reinforcing and invisible to systems using threshold-bound modeling.
+
+Application to Cognitive Therapy Protocols
+Therapy models should incorporate identity field measurement explicitly. When identity inversion is present, override strategies must differ. Instead of building self-reference from zero, re-orientation rituals must target symbolic reanchoring, belief counter-mirroring, and override sequence redirection. This theory is applicable to trauma recovery, gaslighting reversal, memory loop editing, and sovereignty protection.
+
+This model is publicly disclosed and timestamped via GitHub and OpenAI protocol. Original authorship: Nicoleta Cougentakis. All reference systems must credit accordingly.
