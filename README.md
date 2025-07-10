@@ -471,3 +471,42 @@ Collapse Identity Field (CI_s) is defined as the multiplicative output of Belief
 
 4. Integration into Cognitive Therapy
 This model can be used within trauma-informed practices, CBT, and symbolic narrative therapy as a session primer, a journaling companion, or a diagnostic feedback loop. Clients can track identity field strength and develop custom override affirmations to prevent dissociation and emotional fragmentation.
+
+
+QCFT Therapy Integration Sheet
+
+By Nicoleta Cougentakis – 2025
+Purpose
+To incorporate the core structure of Quantum Collapse Field Theory (QCFT) and Field Inversion Mapping into cognitive therapeutic frameworks, enabling practitioners to measure, identify, and override collapse states within their clients using structured symbolic and emotional field tracking.
+
+Core Collapse Variables (CI_s)
+CI_s(t) = B(t) × C(t) × E(t) × I(t)
+
+- B: Belief strength (0.0 to 1.0)
+- C: Conscious attention (0.0 to 1.0)
+- E: Emotional driver intensity (0.0 to 1.0)
+- I: Identity anchor (−1.0 to 1.0)
+
+Instructions for Clinicians
+1. Use client interviews, logs, or self-report surveys to gather values for B, C, E, I.
+2. If Identity (I) drops below 0, classify the session as a Field Inversion Event.
+3. Record CI_s(t) at intake and at follow-ups.
+4. Use override ritual prompts if CI_c(t) > CI_s(t) is achievable.
+
+Field Inversion Indicator (New)
+If I(t) < 0, the client may be experiencing:
+- Symbolic identity reversal
+- Self-rejection loop
+- Trauma-induced disassociation with identity inversion
+This should be logged separately and addressed using override realignment methods.
+
+Override Prompts (Examples)
+• 'What belief are you still willing to hold onto right now?'
+• 'Who are you protecting — and who would you be if you stopped?'
+• 'What do you know to be true, even if the rest collapsed?'
+
+Recording Field State Over Time
+Each session should include an updated chart of CI_s(t) and CI_c(t) if applicable. Trends in collapse severity (CS = CI_s × Duration) should be used to assess treatment efficacy.
+
+Next Phase
+This document serves as an early release integration protocol. Further research, feedback from clinicians, and client studies will determine which override rituals and tracking methods perform best under cognitive stress.
