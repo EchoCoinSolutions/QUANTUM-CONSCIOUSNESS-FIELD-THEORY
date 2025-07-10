@@ -171,7 +171,6 @@ This is incomplete and mathematically false.
 
 Cougentakis’ model extends the field logic to account for:
 
-\boxed{I(t) < 0}
 
 Where:
 	•	I(t) = Identity Anchor at time t
@@ -182,7 +181,6 @@ This triggers:
 	•	Reverse binding to source of collapse (trauma bond, gaslight allegiance)
 	•	A state misclassified as “dissociation” when it is active internal reversal
 
-⸻
 
  2. Updated Collapse Index Model
 
@@ -197,7 +195,6 @@ Where negative I(t) values are permitted and necessary to simulate:
 
 This enables accurate tracking of collapse behavior through and beneath zero, which has not been modeled in existing systems.
 
-⸻
 
  3. Cougentakis Emotional Gravity Law (CEGL)
 
@@ -221,7 +218,6 @@ This explains:
 	•	Loop reattachment to collapse scripts
 	•	Failure of traditional therapy to resolve long-term symbolic inversion
 
-⸻
 
 4. Validation Goal (In Progress)
 
