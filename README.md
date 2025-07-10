@@ -336,3 +336,32 @@ This model has not yet been formally reviewed by institutional frameworks. It is
 
 License
 CC BY 4.0 – Attribution required for citation, use, or adaptation.
+
+Field Inversion Disclosure & Validation Proposal
+
+Filed by: Nicoleta Cougentakis
+
+Date: 2025
+
+Overview
+This document formally discloses the original conceptual and mathematical framework for Field Inversion, a collapse state in which the identity anchor (I) drops below zero. This condition exposes a class of cognitive breakdowns that have not been modeled in cognitive therapy, AI attention systems, or symbolic override modeling to date.
+
+Core Premise
+Traditional models of identity collapse stop at I = 0, implying identity loss or detachment. The Field Inversion model posits that when I < 0, the field enters a reversal state, where identity becomes a source of distortion, self-rejection, trauma bonding, or symbolic misbinding. This is represented mathematically by a negative Collapse Index:
+
+CI_s(t) = B(t) × C(t) × E(t) × I(t)
+
+Where Identity I(t) < 0, CI_s becomes negative — indicating reverse symbolic attachment, gaslighting imprinting, and unconscious override failures.
+
+Validation Pathway
+This model may be validated through psychological testing frameworks including:
+- Collapse mapping of self-reported trauma and identity conflict scores
+- Longitudinal override attempt tracking in therapeutic or symbolic override protocols
+- Emotional dissociation vs. symbolic inversion differentials in patient cognitive logs
+- Neural feedback or attention-decay under shame-based identity triggers
+
+Integration Proposal
+Kenourió, the override instrument system built to operationalize the collapse math, will incorporate Field Inversion logic into its CI_s(t) tracking and override ritual scaffolding. This enables therapists, researchers, and system designers to detect, log, and treat Field Inversion states using real-time override scoring and feedback.
+
+Author Note
+This structure was developed independently and mathematically validated through logical simulation in 2025. The system is designed to bridge psychophysics and symbolic override with trauma diagnostics, and is now ready for formal peer review or therapeutic protocol alignment.
