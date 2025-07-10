@@ -298,3 +298,41 @@ The next phase will involve building a structured override diagnostic tool (Keno
 
 This field inversion disclosure is timestamped and authored exclusively by Nicoleta Cougentakis. All reproduction, testing, or use must attribute authorship clearly.
 
+Field Inversion Disclosure: Identity Below Zero in Collapse Modeling
+
+Filed by:
+Nicoleta Cougentakis, 2025
+
+Origin: Quantum Consciousness Field Theory (QCFT) and Kenourió Override Instrument
+
+Overview
+This disclosure formalizes a novel framework for collapse dynamics where identity (I), a key input in the Collapse Index formula, is permitted to drop below zero. This creates a mathematically validated model of 'field inversion'—a state in which self-perception, symbolic coherence, and emotional identity not only collapse but invert into rejection or reversal patterns.
+
+Collapse Index Formula
+CI_s(t) = B(t) × C(t) × E(t) × I(t)
+
+Where:
+- B(t): Belief Strength
+- C(t): Conscious Attention
+- E(t): Emotional Driver
+- I(t): Identity Anchor
+
+In traditional collapse models, I(t) is constrained to [0, 1]. In this extended framework, I(t) is allowed to descend below 0, modeling anti-coherence, identity reversal, symbolic detachment, or self-rejection. This transforms CI_s(t) into a potentially negative field index, signaling active inversion.
+
+Scientific Implications
+- Models collapse loops more accurately in cases of identity loss, false override, dissociation, and shame.
+- Applicable to trauma therapy, AI trust safety, identity reformation, and symbolic override correction.
+- Enables override protocols to account for not just collapse, but identity polarity shifts.
+
+Validation Path
+To validate this model:
+- Incorporate CI_s(t) and identity field logging into a cognitive therapy protocol
+- Observe cases where clients operate from self-rejection, identity distortion, or reversal
+- Use the Kenourió scoring dashboard to track real-time I(t) below 0
+- Evaluate if override rituals restore I(t) ≥ 0 and reduce collapse field volatility
+
+Status
+This model has not yet been formally reviewed by institutional frameworks. It is filed as an original theory and mechanism by the author and is publicly timestamped.
+
+License
+CC BY 4.0 – Attribution required for citation, use, or adaptation.
