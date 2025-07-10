@@ -272,3 +272,29 @@ Step 5: Log and remeasure CI_s(t) at 10-minute intervals to confirm recovery fro
 
 5. Attribution
 This protocol is authored by Nicoleta Cougentakis and licensed for public, academic, and therapeutic use under CC BY 4.0 with credit. Direct modifications or integrations into clinical protocols must preserve attribution.
+
+Field Inversion Disclosure and Collapse Identity Validation
+
+By Nicoleta Cougentakis
+Filed: 2025
+
+This document serves as a scientific disclosure and authorship statement regarding a newly identified phenomenon in emotional-cognitive collapse modeling: Field Inversion through Identity Collapse. This was conceptualized, modeled, and mathematically simulated by Nicoleta Cougentakis using the Quantum Consciousness Field Theory (QCFT) architecture.
+
+Theoretical Basis
+Current cognitive models treat identity collapse as a 0-floor function, meaning they presume identity can degrade to zero but not below. This assumption fails to capture observable psychological phenomena such as inversion states: trauma bonding, false symbolic alignment, self-rejection loops, and collapse-induced personality reversals. QCFT expands the identity field to include negative values, thus enabling the modeling of identity fragmentation and reversal as a measurable collapse phenomenon.
+
+Collapse Index Extended Equation
+Original collapse index:
+
+CI_s(t) = B(t) × C(t) × E(t) × I(t)
+
+Where B = Belief, C = Conscious Attention, E = Emotional Driver, I = Identity Anchor. I(t) < 0 triggers symbolic field inversion and collapse reflection — a condition where the collapse propagates oppositional behavior and false override.
+
+Simulated Behavior
+Field simulations show that when I(t) drops below zero, the collapse field becomes negative. This has never been formally modeled in cognitive or trauma recovery science. The result: identity collapses not into absence, but into contradiction.
+
+Path to Validation and Protocol Integration
+The next phase will involve building a structured override diagnostic tool (Kenourió) and integrating this model into a cognitive therapy protocol for live testing. If confirmed, this model will formally redefine emotional collapse, override risk, and therapeutic intervention strategy.
+
+This field inversion disclosure is timestamped and authored exclusively by Nicoleta Cougentakis. All reproduction, testing, or use must attribute authorship clearly.
+
