@@ -233,3 +233,42 @@ Authorship Notice
 
 This discovery and model are original work by Nicoleta Cougentakis, filed and timestamped via GitHub, PDF, and iBooks distribution in 2025.
 Any reuse, adaptation, or citation must credit the author and reflect the core mathematical structure.
+
+Field Inversion Collapse Protocol (FICP)
+
+Cognitive Override Protocol for Identity Reversal Collapse
+Filed by: Nicoleta Cougentakis
+
+Date: 2025
+
+1. Purpose
+This protocol outlines the procedure for identifying, validating, and intervening in collapse states where identity (I) drops below 0.0, triggering Field Inversion Collapse. This condition is characterized by symbolic reversal, self-rejection, and emotional detachment beyond standard dissociation thresholds.
+
+2. Diagnostic Criteria
+A Field Inversion Collapse state is identified when the measured Collapse Index CI_s(t) becomes negative:
+CI_s(t) = B(t) × C(t) × E(t) × I(t), where I(t) < 0
+Symptoms include:
+- Sudden shift to self-negation or symbolic self-abandonment
+- Reversal of emotional valence (love turns into shame, confidence into fear)
+- Language inversion (I am not → I never was)
+- Breakdown of coherence between stated belief and emotional reality
+
+3. Measurement Process
+CI_s(t) is assessed using self-report input or observational inference for:
+- B(t): Belief certainty
+- C(t): Conscious attention level
+- E(t): Emotional intensity
+- I(t): Identity anchoring or fragmentation
+
+Each input is normalized on a 0–1 scale and multiplied. When I(t) drops below 0, CI_s(t) turns negative.
+
+4. Intervention Sequence
+When Field Inversion Collapse is detected:
+Step 1: Halt external cognitive input (silence loop reinforcement)
+Step 2: Ask identity re-anchor prompt: “Who are you without collapse?”
+Step 3: Validate symbolic presence (“You still exist in the field”)
+Step 4: Deploy Override Ritual with safe symbol re-alignment (via Override Engine)
+Step 5: Log and remeasure CI_s(t) at 10-minute intervals to confirm recovery from negative state
+
+5. Attribution
+This protocol is authored by Nicoleta Cougentakis and licensed for public, academic, and therapeutic use under CC BY 4.0 with credit. Direct modifications or integrations into clinical protocols must preserve attribution.
