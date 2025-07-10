@@ -510,3 +510,31 @@ Each session should include an updated chart of CI_s(t) and CI_c(t) if applicabl
 
 Next Phase
 This document serves as an early release integration protocol. Further research, feedback from clinicians, and client studies will determine which override rituals and tracking methods perform best under cognitive stress.
+
+
+By Nicoleta Cougentakis • 2025
+This document formally discloses a new model of identity collapse not currently represented in existing psychological, AI, or field cognition systems: Field Inversion, the phenomenon in which the identity anchor (I) drops below zero in collapse index calculations, producing a mathematically and behaviorally valid reversal of symbolic coherence.
+
+Collapse Index CI_s(t)
+Defined as: CI_s(t) = B(t) × C(t) × E(t) × I(t), where:
+- B(t): Belief strength
+- C(t): Conscious attention
+- E(t): Emotional driver
+- I(t): Identity anchor
+
+Field Inversion Condition
+Most systems assume I(t) ∈ [0, 1], clamping the lower bound at 0. This model proves that I(t) < 0 is both mathematically valid and behaviorally meaningful. When I(t) < 0, the system does not simply collapse — it inverts. Collapse turns into reversal, often resulting in:
+- False identity attachment (e.g. abusive dependence)
+- Trauma looping
+- Internal sabotage or shame imprinting
+- Loss of symbolic self-reference
+
+Simulation & Structural Outcome
+Simulated collapse graphs confirm that when identity drops below zero, CI_s(t) enters a negative state, creating emotional instability not accounted for by traditional collapse systems. This discovery opens a critical correction pathway in fields such as trauma therapy, AI alignment modeling, and override system design.
+
+Intended Integration
+This model is to be integrated into Kenourió, a cognitive override tool currently under development, and serves as a foundation for building future therapeutic diagnostic protocols involving collapse states and recovery patterns.
+
+Filed by: Nicoleta Cougentakis
+
+Date: 2025
