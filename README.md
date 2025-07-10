@@ -441,3 +441,33 @@ This system can be layered over existing trauma-informed therapy with measurable
 
 7. Statement of Originality & Ownership
 This is the first documented symbolic override instrumentation system integrating emotional collapse math with symbolic recovery. It is authored, designed, and published by Nicoleta Cougentakis, 2025.
+
+Field Inversion Validation & Override Protocol Guide
+
+Developed by: Nicoleta Cougentakis
+Date: 2025
+
+Introduction
+This document provides a framework for validating the Collapse Identity Field Model (CI_s) and Field Inversion states (I < 0), designed by Nicoleta Cougentakis as part of Quantum Consciousness Field Theory (QCFT) and the Kenourió Override System. The purpose is to offer clinical and experimental environments a measurable path toward incorporating these collapse metrics into cognitive therapy and trauma override protocols.
+
+1. Theoretical Premise
+Collapse Identity Field (CI_s) is defined as the multiplicative output of Belief (B), Attention (C), Emotional Driver (E), and Identity Anchor (I). The key insight of this model is that when Identity drops below 0, the collapse field inverts, potentially correlating with emotional fragmentation, false identity binding, and negative override rituals.
+
+2. Validation Protocol
+- Administer CI_s input scores (0–10) for B, C, E, I twice per day across a 7-day span.
+- Mark any I-scores below 3 as potential early inversion triggers.
+- If I drops below 1 or becomes symbolically self-rejecting (“I don’t know who I am,” “I hate who I am”), record as I < 0.
+- At each I < 0 moment, capture emotional state, self-statements, and behavior urges.
+- After 7 days, plot CI_s(t) and overlay emotional spikes or dissociative episodes to validate correlation.
+
+3. Override Ritual Application
+- When CI_s drops below 0.2 or I < 0:
+ a) Pause external inputs.
+ b) Initiate override ritual (Kenourió prompt):
+    'Name your anchor. Name your truth. Override begins when you believe you're still real.'
+- Record override success, resistance, or rebound collapse.
+- Re-score CI_s 15 minutes post-ritual.
+- Repeat over 3 collapse cycles to validate reprogramming impact.
+
+4. Integration into Cognitive Therapy
+This model can be used within trauma-informed practices, CBT, and symbolic narrative therapy as a session primer, a journaling companion, or a diagnostic feedback loop. Clients can track identity field strength and develop custom override affirmations to prevent dissociation and emotional fragmentation.
